@@ -1,5 +1,10 @@
 # instagram-user-data-extraction
 Used to extract data from instagram profile for analytics purpose
+
+
+https://github.com/shubhamatkal/instagram-user-data-extraction/assets/99415769/8e28a121-9c8b-4dee-8ff8-d2adb3da0c9d
+
+
 ## Installation
 
 1. Clone the repository to your local machine:
