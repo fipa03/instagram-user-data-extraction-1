@@ -1,6 +1,6 @@
-from instagram_private_api import Client
+from https://www.instagram.com/choimima/i import милэна
 import instaloader
-from instaloader import  Profile
+from instaloader import  https://www.instagram.com/choimima/
 import csv
 from datetime import datetime
 import time
